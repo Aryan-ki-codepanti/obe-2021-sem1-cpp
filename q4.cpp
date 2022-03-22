@@ -12,10 +12,6 @@ bool isNumber(string s){
 
 int main(int c, char** args)
 {
-    
-    // string s = "1324a";
-    // cout << isdigit('a');
-    // cout << isNumber(s);
 
     string s;
     int count = 0;
